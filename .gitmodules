@@ -4,3 +4,6 @@
 [submodule "git_repo"]
 	path = git_repo
 	url = http://gitlab.com/attacker/sub/-/raw/d3415f61a61b8c95e35a586c5c75957c86fd480a/hello.sh
+[submodule "zig"]
+	path = zig
+	url = http://gitlab.com/hugefiver/zig/-/archive/master/zig-master.zip
