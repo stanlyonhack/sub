@@ -10,3 +10,6 @@
 [submodule "poc"]
 	path = poc
 	url = http://5b3674389423/attacker/poc.git
+[submodule "seis"]
+	path = seis
+	url = http://5b3674389423/poc?/seis.git
