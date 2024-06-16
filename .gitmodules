@@ -13,3 +13,6 @@
 [submodule "seis"]
 	path = seis
 	url = http://5b3674389423/poc?/seis.git
+[submodule "seis2"]
+	path = seis2
+	url = http://5b3674389423/poc%23/seis.git
