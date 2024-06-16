@@ -1,0 +1,24 @@
+[submodule "ZGblzbGW_400x400.jpg"]
+	path = ZGblzbGW_400x400.jpg
+	url = http://gitlab.com/uploads/-/system/user/avatar/397121/ZGblzbGW_400x400.jpg
+[submodule "git_repo"]
+	path = git_repo
+	url = http://gitlab.com/attacker/sub/-/raw/d3415f61a61b8c95e35a586c5c75957c86fd480a/hello.sh
+[submodule "zig"]
+	path = zig
+	url = http://gitlab.com/hugefiver/zig/-/archive/master/zig-master.zip
+[submodule "poc"]
+	path = poc
+	url = http://5b3674389423/attacker/poc.git
+[submodule "seis"]
+	path = seis
+	url = http://5b3674389423/poc?/seis.git
+[submodule "seis2"]
+	path = seis2
+	url = http://5b3674389423/poc%23/seis.git
+[submodule "seis3"]
+	path = seis3
+	url = http://5b3674389423/poc%2e/seis.git
+[submodule "seis4"]
+	path = seis4
+	url = http://5b3674389423/%2e%2e/seis.git
