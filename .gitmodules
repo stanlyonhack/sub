@@ -19,3 +19,6 @@
 [submodule "seis3"]
 	path = seis3
 	url = http://5b3674389423/poc%2e/seis.git
+[submodule "seis4"]
+	path = seis4
+	url = http://5b3674389423/%2e%2e/seis.git
